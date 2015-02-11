@@ -3,6 +3,7 @@
 financial ratio calculations: 
 - Weighted average cost of capital (WACC)
 - Enterprise value (EV)
+- Return on Investment (ROI)
 - Liquidity ratios 
   - Current ratio
   - Quick ratio
@@ -16,7 +17,6 @@ financial ratio calculations:
   - Gross profit margin 
   - Return on Assets (ROA)
   - Return on Equity (ROE)
-  - Return on Investment (ROI)
 - Dividend ratios
   - Dividend yeild 
   - Dividend payout ratio
