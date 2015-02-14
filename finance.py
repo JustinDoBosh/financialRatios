@@ -182,10 +182,10 @@ class finance:
 
 
 companyX = finance()
-#companyX.WeightedAvgCostCap()
-#companyX.EnterpriseValue()
-#companyX.ReturnOnInv()
-#companyX.LiquidityRatios()
-#companyX.FinancialLeverageRatios()
-#companyX.ProfitabilityRatios()
-#companyX.DividendRatios()
+companyX.WeightedAvgCostCap()
+companyX.EnterpriseValue()
+companyX.ReturnOnInv()
+companyX.LiquidityRatios()
+companyX.FinancialLeverageRatios()
+companyX.ProfitabilityRatios()
+companyX.DividendRatios()
